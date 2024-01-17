@@ -1,1 +1,1 @@
-puthu file creat panna nanum 
+print("hello world")
